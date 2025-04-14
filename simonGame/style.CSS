@@ -1,0 +1,44 @@
+body{
+    text-align: center;
+}
+
+div{
+  
+    border: black,20px;
+    margin-top: 3px;
+
+
+}
+.container{
+    display:inline-table;
+    justify-content: center;
+    align-items: center;
+    border: 20%;
+}
+
+.red{
+    background-color: red;
+    height: 200px;
+    width: 200px;;
+}
+.blue{
+    background-color: blue;
+    height: 200px;
+    width: 200px;;
+}
+.green{
+    background-color: green;
+    height: 200px;
+    width: 200px;;
+}
+.yellow{
+    background-color: yellow;
+    height: 200px;
+    width: 200px;;
+}
+.flash{
+    background-color: white;
+}
+.userFlah{
+    background-color: green ;
+}
